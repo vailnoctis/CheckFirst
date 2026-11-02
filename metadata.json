@@ -1,0 +1,6 @@
+{
+  "name": "CheckFirst - Community Scam & Fraud Checker India",
+  "description": "Community-powered verification tool for job offers, internships, UPI IDs, and phone numbers in India to detect scams before trusting them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,43 +1,20 @@
-# CheckFirst 🛡️
-A Community Powered Scam Checker
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-Pause. Verify. Then decide.
+# Run and deploy your AI Studio app
 
-CheckFirst is a website that helps people check suspicious job offers, internships, work from home opportunities and online payment requests before trusting them.
+This contains everything you need to run your app locally.
 
-# Features
-• Search phone numbers, UPI IDs, company names and websites.
+View your app in AI Studio: https://ai.studio/apps/5c8ef190-d93f-4ae1-8b02-657a56c69a11
 
-• Check suspicious messages for common warning signs.
+## Run Locally
 
-• View reports shared by other users.
+**Prerequisites:**  Node.js
 
-• Get simple Low, Medium and High risk indicators.
 
-• Learn how to verify job offers and companies.
-
-• Create warning cards to share with others.
-
-• Available in English and Hindi.
-
-# Technologies Used
-• Google AI Studio for AI assisted website development.
-
-• AI prompting for project planning and code generation.
-
-# Project Status
-This project is currently a working prototype. It uses sample reports and stores submitted data in the browser.
-
-# Future Improvements
-• Connect a shared database.
-
-• Improve report verification and moderation.
-
-• Add more language options.
-
-• Explore WhatsApp integration.
-
-# Note
-CheckFirst is an awareness tool, not an official fraud verification service. User reports are not independently verified. No reports found does not mean an offer is safe.
-
-**Check First. Then Trust.**
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
