@@ -1,3 +1,6 @@
+**Live Demo**
+https://check-first-six.vercel.app/
+
 # CheckFirst 🛡️
 ### A Community-Powered Scam Checker
 
