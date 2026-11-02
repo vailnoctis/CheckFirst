@@ -21,11 +21,9 @@ CheckFirst is a website that helps people check suspicious job offers, internshi
 • Available in English and Hindi.
 
 # Technologies Used
-• Google AI Studio
+• Google AI Studio for AI assisted website development.
 
-• HTML, CSS and JavaScript (if applicable to the actual project)
-
-• LocalStorage
+• AI prompting for project planning and code generation.
 
 # Project Status
 This project is currently a working prototype. It uses sample reports and stores submitted data in the browser.
