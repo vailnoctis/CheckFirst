@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CheckFirst 🛡️
+### A Community-Powered Scam Checker
 
-# Run and deploy your AI Studio app
+**Pause. Verify. Then decide.**
 
-This contains everything you need to run your app locally.
+CheckFirst is a website designed to help people identify suspicious job offers, internships, work-from-home opportunities and online payment requests before trusting them.
 
-View your app in AI Studio: https://ai.studio/apps/5c8ef190-d93f-4ae1-8b02-657a56c69a11
+It aims to make online safety checks easier, especially for students and job seekers.
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- **Search & Check:** Search phone numbers, UPI IDs, company names and website links.
+- **Community Reports:** View reports submitted by other users.
+- **Risk Indicators:** See Low, Medium or High risk indicators.
+- **Message Checker:** Identify common warning signs in suspicious messages.
+- **Verification Guide:** Learn how to verify companies and job offers.
+- **Cybercrime Support:** Find guidance for reporting online fraud.
+- **Language Support:** English and Hindi.
 
+## How It Works
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+CheckFirst uses simple rule-based checks to identify common warning signs. It also displays community-submitted reports to help users make informed decisions.
+
+Reports are not independently verified, so users should always verify information through official sources.
+
+## Technologies & Tools
+
+- Google AI Studio – AI-assisted development
+- TypeScript – Application development
+- Vite – Development and build tool
+- Claude – Brainstorming, planning and documentation
+
+## Project Status
+
+CheckFirst is currently a working prototype.
+
+It uses browser local storage for reports and includes sample demonstration data. Reports are not yet shared through a central database.
+
+## Future Improvements
+
+- Shared database for community reports
+- Report verification and moderation
+- Support for additional languages
+- Improved reporting and verification features
+
+## Important Note
+
+CheckFirst is an awareness and verification-support tool, not an official fraud investigation service.
+
+A lack of reports does not mean an offer is safe. Always verify information independently.
+
+**Check First. Then Trust.**
