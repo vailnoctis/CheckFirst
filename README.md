@@ -1,6 +1,8 @@
 # CheckFirst 🛡️
 A Community Powered Scam Checker
+
 Pause. Verify. Then decide.
+
 CheckFirst is a website that helps people check suspicious job offers, internships, work from home opportunities and online payment requests before trusting them.
 
 # Features
